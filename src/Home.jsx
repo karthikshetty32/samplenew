@@ -1,6 +1,6 @@
 import React from "react";
 import web from "../src/images/img1.jpg";
-//git import { NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import Commom from "./Commom";
 
 const Home = () => {
