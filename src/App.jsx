@@ -9,6 +9,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import { Switch, Route, Redirect } from "react-router-dom";
 
+
 const App = () => {
   return (
     <>
